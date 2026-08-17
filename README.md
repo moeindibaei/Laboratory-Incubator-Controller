@@ -47,4 +47,4 @@ Altium Designer PCB layout, schematic, and Bill of Materials (BOM) for a special
 
 | Top Layer | Bottom Layer |
 | :---: | :---: |
-| ![Top Layer](./pcb_layout_top.png) | ![Bottom Layer](./pcb_layout_bottom.png) |
+| ![Top Layer](./pcb_layout_top.png) | ![Bottom Layer](./pcb_layout-bottom.png) |
