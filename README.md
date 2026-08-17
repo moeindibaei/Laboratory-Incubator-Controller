@@ -57,12 +57,3 @@ Altium Designer PCB layout, schematic, and Bill of Materials (BOM) for a special
   </tr>
 </table>
 
-### 3D Model Render
-| Top View | Bottom View |
-| :---: | :---: |
-| ![Top View](3d_top_view.png) | ![Bottom View](3d_bottom_view.png) |
-
-### PCB Layout Design
-| Top Layer | Bottom Layer |
-| :---: | :---: |
-| ![PCB Top](pcb_layout_top.png) | ![PCB Bottom](pcb_layout_bottom.png) |
