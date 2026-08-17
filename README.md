@@ -20,40 +20,31 @@ Altium Designer PCB layout, schematic, and Bill of Materials (BOM) for a special
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-* `3d_top_view.png` — 3D PCB render (Top view)
-* `3d_bottom_view.png` — 3D PCB render (Bottom view)
-* `pcb_layout_top.png` — PCB Top Layer Copper and Silkscreen
-* `pcb_layout_bottom.png` — PCB Bottom Layer Copper and Silkscreen
-* `Incubation_Schematic.pdf` — Full Circuit Schematic Diagram
-* `BOM_Incubation.xlsx` — Complete Bill of Materials (Component List)
+* 📄 `INCUBATION_schematic.pdf` — Full Circuit Schematic Diagram
+* 📊 `BOM_INCUBATION.xlsx` — Complete Bill of Materials (Component List)
+* 🖼️ `3d_top_view.png` — 3D PCB Render (Top View)
+* 🖼️ `3d_bottom_view.png` — 3D PCB Render (Bottom View)
+* 🖼️ `pcb_layout_top.png` — PCB Top Layer Copper & Silkscreen
+* 🖼️ `pcb_layout_bottom.png` — PCB Bottom Layer Copper & Silkscreen
 
----
+## Previews & Documentation
 
-## 🖼 Visuals
+| Schematic Diagram | Bill of Materials (BOM) |
+| :---: | :---: |
+| 📄 [Download Schematic PDF](./INCUBATION_schematic.pdf) | 📊 [View Bill of Materials (BOM)](./BOM_INCUBATION.xlsx) |
+
+## Visuals
 
 ### 3D Model Render
-<table>
-  <tr>
-    <td align="center"><b>Top View</b></td>
-    <td align="center"><b>Bottom View</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./3d_top_view.png" width="100%"></td>
-    <td align="center"><img src="./3d_bottom_view.png" width="100%"></td>
-  </tr>
-</table>
+
+| Top View | Bottom View |
+| :---: | :---: |
+| ![Top View](./3d_top_view.png) | ![Bottom View](./3d_bottom_view.png) |
 
 ### PCB Layout Design
-<table>
-  <tr>
-    <td align="center"><b>Top Layer</b></td>
-    <td align="center"><b>Bottom Layer</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./pcb_layout_top.png" width="100%"></td>
-    <td align="center"><img src="./pcb_layout_bottom.png" width="100%"></td>
-  </tr>
-</table>
 
+| Top Layer | Bottom Layer |
+| :---: | :---: |
+| ![Top Layer](./pcb_layout_top.png) | ![Bottom Layer](./pcb_layout_bottom.png) |
