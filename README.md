@@ -8,7 +8,7 @@ Altium Designer PCB layout, schematic, and Bill of Materials (BOM) for a special
 
 * **System Power Input:** 24V DC / 5V DC Main Power Terminal
 * **Voltage Regulation:** On-board LDO regulator generating +3.3V supply
-* **Control Core (U2):** DIP/DIP-Header module socket for microcontroller or driver carrier
+* **Control Core (U2):** DIP/DIP-Header module socket for driver carrier
 * **Signal Conditioners:** 
   * Op-Amp / Analog Front-End (`U3` SO-14 IC) for precision sensor measurements
   * Multi-channel analog/digital signals via dedicated connectors
